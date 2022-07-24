@@ -23,6 +23,7 @@ References:
 * http://www.egr.unlv.edu/~ed/assembly64.pdf
 * https://second.wiki/wiki/int_80h
 * http://www.int80h.org/
+* https://www.cs.uaf.edu/2008/fall/cs301/lecture/12_03_operating_system.html
 * 
 ---
 Have fun! 
